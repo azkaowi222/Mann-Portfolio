@@ -469,7 +469,6 @@ form .last-child {
   border-radius: 16px;
   font-size: 1rem;
   font-weight: 500;
-  margin-bottom: 60px;
 }
 
 .fields {
@@ -489,6 +488,7 @@ form .last-child {
   border-top: 0.5px solid #b4bac6;
   background: #07051b;
   padding: 16px;
+  margin-top: 60px;
 }
 
 .footer .profile {
