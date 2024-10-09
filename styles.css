@@ -353,7 +353,7 @@ p {
 .list .project {
   width: 100%;
   padding-bottom: 16px;
-  height: 600px;
+  height: 500px;
   position: relative;
 }
 
@@ -570,6 +570,10 @@ footer p {
 
   .list .item img {
     width: 45px;
+  }
+
+  .list .project {
+    height: 600px;
   }
 
   .education::after {
