@@ -469,6 +469,7 @@ form .last-child {
   border-radius: 16px;
   font-size: 1rem;
   font-weight: 500;
+  margin-bottom: 60px;
 }
 
 .fields {
