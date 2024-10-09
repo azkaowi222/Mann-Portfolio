@@ -414,7 +414,7 @@ p {
 .contact-container {
   height: auto;
   background: #07051b;
-  margin-bottom: 60px;
+  padding-bottom: 60px;
 }
 
 .contact-container .contact-wrapper {
