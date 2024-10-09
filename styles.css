@@ -414,6 +414,7 @@ p {
 .contact-container {
   height: auto;
   background: #07051b;
+  margin-bottom: 60px;
 }
 
 .contact-container .contact-wrapper {
@@ -488,7 +489,6 @@ form .last-child {
   border-top: 0.5px solid #b4bac6;
   background: #07051b;
   padding: 16px;
-  margin-top: 60px;
 }
 
 .footer .profile {
